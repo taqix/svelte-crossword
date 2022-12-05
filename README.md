@@ -13,7 +13,7 @@ git push
 ```
 Za pierwszym razem ta ostatnia komenda nie zadziała i musisz użyć tego całego
 ```
-git remote add origin https://github.com/taqix/test.git
+git remote add origin https://github.com/taqix/svelte-crossword.git
 git branch -M main
 git push -u origin main
 ```
